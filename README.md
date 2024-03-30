@@ -1,5 +1,5 @@
 
-<img width="1039" alt="ppt 1장" src="https://github.com/sangwon0707/ORACLECLI_project/blob/main/4c8d61f8-a30f-4ab8-9513-d602acbd5fb0-0.jpg"> 
+<img width="1039" alt="ppt 1장" src="https://github.com/sangwon0707/OracleCLI_javaGUI_project/blob/main/%08projectPDF1page.jpg"> 
 
 &nbsp;
 &nbsp;
