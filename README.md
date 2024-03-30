@@ -5,6 +5,12 @@
 &nbsp;
 
 <h1 align="center"> 👩🏻‍💻 자바, Oracle CLI  노래방 관리 프로그램 🛢️</h1>
+<img width="500" alt="ppt 1장" src="https://github.com/sangwon0707/OracleCLI_javaGUI_project/blob/main/OracleCLI_javaGUI_project_%EA%B0%9C%EB%85%90%EC%84%A4%EA%B3%84.jpg"> 
+
+[🔗 요구사항 명세서](https://github.com/sangwon0707/OracleCLI_javaGUI_project/blob/main/OracleCLI_javaGUI_project.pdf)
+[🔗 최종 발표](https://github.com/sangwon0707/OracleCLI_javaGUI_project/blob/main/OracleCLI_javaGUI_project_RequirementsSpecification.pdf) 
+
+
 &nbsp;
 ## 👩🏻‍💻 개요
 노래방 예약 및 관리 시스템은 회원제 기반으로, 기본적으로 로그인/회원가입, 방 예약, 간식 결제 등을 포함합니다. 
