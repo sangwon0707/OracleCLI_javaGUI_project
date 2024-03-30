@@ -37,8 +37,6 @@
 ### Eclipse
 ### Oracle-xe-11g 
 ###  (iTerm2) Sqlplus CLI
-- DBeaver Tool은 기본적인 테이블 구조설계 및 제약사항 설정, insert 문 설정때 사용 
-- DBeaver Tool은 기본적인 테이블 구조설계 및 제약사항 설정, insert 문 설정때 사용     
 
 ### Docker   
 - M1 맥북에서 Oracle을 사용하기 위해 Colima와 Docker 컨테이너를 활용한 개발 환경 설정. Colima는 ARM 시스템에서도 동작하는 VM 관리 도구이며, Docker를 통해 Oracle 데이터베이스를 컨테이너로 실행하여 개발 환경을 쉽게 구축.
