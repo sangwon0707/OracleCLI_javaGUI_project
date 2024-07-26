@@ -1,6 +1,12 @@
 
 <img width="1039" alt="ppt 1장" src="https://github.com/sangwon0707/OracleCLI_javaGUI_project/blob/main/%08projectPDF1page.jpg"> 
 
+
+
+https://github.com/user-attachments/assets/5b0844a1-8840-4c8c-a587-3d8c0ccc7596
+&nbsp;
+https://github.com/user-attachments/assets/50dfcc47-cbaf-4b5f-83d5-fc5eaf59edad
+
 &nbsp;
 &nbsp;
 
